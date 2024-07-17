@@ -1,0 +1,8 @@
+python-telegram-bot == 21.4
+python-dotenv == 1.0.1
+Telethon == 1.36.0
+nlp-id
+nltk
+scikit-learn
+pandas
+tqdm
